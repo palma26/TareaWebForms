@@ -1,0 +1,52 @@
+
+
+.table1 th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.table1 input{
+    width: 98%;
+}
+
+.table1{
+    padding: 20px;
+    width: 50%;
+}
+
+.table2 th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.table2 input{
+    width: 98%;
+}
+
+.table2{
+    padding: 20px;
+    width: 50%;
+}
+
+
+.datos1{
+    text-align: center;
+    display: block;
+    width: 180%;
+}
+
+.datos2{
+    text-align: center;
+    display: block;
+    width: 195%;
+}
+
+.enviar{
+    display: block;
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: blue;
+    color: white;
+}
+
